@@ -1,0 +1,14 @@
+# Environments
+.venv
+venv/
+*venv
+
+
+# Byte-compiled 
+__pycache__/
+*__pycache__/
+
+
+*.pyc
+*.pyo
+*.pyi
